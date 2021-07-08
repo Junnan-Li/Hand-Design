@@ -1,0 +1,13 @@
+hand_v2:
+
+mount_screw d = 1.9, D = 4
+
+
+DP(left): 
+
+at joint:
+width: 2+6 
+width of spring: 2.3
+
+diameter of shaft: 4
+distance of pin: 1
